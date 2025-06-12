@@ -1,0 +1,443 @@
+[
+    {
+        "College code and descriptor": "AA through AZ-University Administration",
+        "College contact(s)": "Joann Walker",
+        "Budget or HR Role": "HR",
+        "Contact email ": "jwalke@illinois.edu",
+        "Phone number": "217-333-1236"
+    },
+    {
+        "College code and descriptor": "KL - ACES",
+        "College contact(s)": "Nick Unser",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "nicku@illinois.edu",
+        "Phone number": "217-244-6676"
+    },
+    {
+        "College code and descriptor": "KL - ACES",
+        "College contact(s)": "ACES HR",
+        "Budget or HR Role": "HR",
+        "Contact email ": "hr@aces.illinois.edu",
+        "Phone number": "217-333-2664"
+    },
+    {
+        "College code and descriptor": "KM - Business",
+        "College contact(s)": "Rich Abel",
+        "Budget or HR Role": "HR Generalist",
+        "Contact email ": "abel@illinois.edu",
+        "Phone number": "217-244-3309"
+    },
+    {
+        "College code and descriptor": "KM - Business",
+        "College contact(s)": "Colleen Harmon",
+        "Budget or HR Role": "HR Generalist",
+        "Contact email ": "charmon@illinois.edu",
+        "Phone number": "333-2529"
+    },
+    {
+        "College code and descriptor": "KM - Business",
+        "College contact(s)": "Talisa Thompson",
+        "Budget or HR Role": "Director of HR",
+        "Contact email ": "tethomp@illinois.edu",
+        "Phone number": "217-265-6797"
+    },
+    {
+        "College code and descriptor": "KN - Education",
+        "College contact(s)": "Stephanie Haas",
+        "Budget or HR Role": "HR",
+        "Contact email ": "hr@education.illinois.edu",
+        "Phone number": "217-244-6920"
+    },
+    {
+        "College code and descriptor": "KN - Education",
+        "College contact(s)": "Amy Hager",
+        "Budget or HR Role": "HR",
+        "Contact email ": "hr@education.illinois.edu",
+        "Phone number": "217-244-1664"
+    },
+    {
+        "College code and descriptor": "KP - Engineering",
+        "College contact(s)": "Sarah Ozier",
+        "Budget or HR Role": "HR - academic/staff",
+        "Contact email ": "slozier2@illinois.edu",
+        "Phone number": "217-244-1056"
+    },
+    {
+        "College code and descriptor": "KP - Engineering",
+        "College contact(s)": "Kathy Atwood",
+        "Budget or HR Role": "HR - academic/staff",
+        "Contact email ": "kbuss@illinois.edu",
+        "Phone number": "217-333-6804"
+    },
+    {
+        "College code and descriptor": "KP - Engineering",
+        "College contact(s)": "Lori Willoughby",
+        "Budget or HR Role": "HR",
+        "Contact email ": "rairden@illinois.edu",
+        "Phone number": "217-333-3837"
+    },
+    {
+        "College code and descriptor": "KP-Engineering",
+        "College contact(s)": "Beth Rutledge",
+        "Budget or HR Role": "HR - grad/hourly",
+        "Contact email ": "brutledg@illinois.edu",
+        "Phone number": "217-333-2812"
+    },
+    {
+        "College code and descriptor": "KP - Engineering",
+        "College contact(s)": "Tessa Hile",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "tmhile@illinois.edu",
+        "Phone number": " 217 333 0859"
+    },
+    {
+        "College code and descriptor": "KR - Fine and Applied Arts",
+        "College contact(s)": "Jennifer Russell",
+        "Budget or HR Role": "HR",
+        "Contact email ": "faa-hr@mx.uillinois.edu",
+        "Phone number": "217-265-4818"
+    },
+    {
+        "College code and descriptor": "KS - Graduate College - Fellowship Office",
+        "College contact(s)": "Debbie Tiedemann",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "dtiedemn@illinois.edu",
+        "Phone number": "217-300-0390"
+    },
+    {
+        "College code and descriptor": "KS - Graduate College",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "KT - Media",
+        "College contact(s)": "Dinah Stillwell",
+        "Budget or HR Role": "HR",
+        "Contact email ": "ddanielk@illinois.edu",
+        "Phone number": "217-333-2351"
+    },
+    {
+        "College code and descriptor": "KU - Law",
+        "College contact(s)": "Devin Scheidemantel",
+        "Budget or HR Role": "HR",
+        "Contact email ": "wds@illinois.edu",
+        "Phone number": "217-300-5972"
+    },
+    {
+        "College code and descriptor": "KV - Liberal Arts and Sciences",
+        "College contact(s)": "Audrey Ramsey",
+        "Budget or HR Role": "HR",
+        "Contact email ": "awegman@illinois.edu",
+        "Phone number": "217-300-9440"
+    },
+    {
+        "College code and descriptor": "KV - Liberal Arts and Sciences",
+        "College contact(s)": "Ashlee Stanfield",
+        "Budget or HR Role": "HR",
+        "Contact email ": "ashlees@illinois.edu",
+        "Phone number": "217-244-7033 "
+    },
+    {
+        "College code and descriptor": "KW - General Studies",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "KY - Applied Health Studies",
+        "College contact(s)": "Jennifer Russell",
+        "Budget or HR Role": "HR",
+        "Contact email ": "ahs-hr@illinois.edu",
+        "Phone number": "217-265-4818"
+    },
+    {
+        "College code and descriptor": "KY - Applied Health Studies",
+        "College contact(s)": "Leslie Chenoweth",
+        "Budget or HR Role": "HR",
+        "Contact email ": "ahs-hr@illinois.edu",
+        "Phone number": "217-265-4818"
+    },
+    {
+        "College code and descriptor": "LB - Medicine",
+        "College contact(s)": "",
+        "Budget or HR Role": "HR",
+        "Contact email ": "",
+        "Phone number": ""
+    },
+    {
+        "College code and descriptor": "LC - Veterinary Medicine",
+        "College contact(s)": "Angela Cravens",
+        "Budget or HR Role": "HR",
+        "Contact email ": "acravens@illinois.edu",
+        "Phone number": "217-300-8344"
+    },
+    {
+        "College code and descriptor": "LC - Veterinary Medicine",
+        "College contact(s)": "Sara L. Kennedy",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "slkenned@illinois.edu",
+        "Phone number": "217-244-8691"
+    },
+    {
+        "College code and descriptor": "LD - Armed Forces",
+        "College contact(s)": "Jennifer Bateman",
+        "Budget or HR Role": "Business/Admin",
+        "Contact email ": "jklein@illinois.edu",
+        "Phone number": "217-333-7747"
+    },
+    {
+        "College code and descriptor": "LF - Public Safety - Fire Services Institute",
+        "College contact(s)": "Keri Borchers",
+        "Budget or HR Role": "HR",
+        "Contact email ": "kerib@illinois.edu",
+        "Phone number": "217-300-1575"
+    },
+    {
+        "College code and descriptor": "LF - Public Safety - PTI",
+        "College contact(s)": "Beverly Beck",
+        "Budget or HR Role": "Budget and HR",
+        "Contact email ": "bsearson@uillinois.edu",
+        "Phone number": "217-333-0270"
+    },
+    {
+        "College code and descriptor": "LG - School of Labor and Employee Relations",
+        "College contact(s)": "Brooke D'Urso",
+        "Budget or HR Role": "Asst. Dir, Ext. Relations&Oper.",
+        "Contact email ": "bkdurso@illinois.edu",
+        "Phone number": "217-300-9313"
+    },
+    {
+        "College code and descriptor": "LH - Beckman Institute",
+        "College contact(s)": "Jaclyn Patrick",
+        "Budget or HR Role": "HR",
+        "Contact email ": "jpatric@illinois.edu",
+        "Phone number": "217-244-0586"
+    },
+    {
+        "College code and descriptor": "LK - Environmental Council",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "LL - Social Work",
+        "College contact(s)": "Nicole Peck",
+        "Budget or HR Role": "HR",
+        "Contact email ": "nbillman@illinois.edu",
+        "Phone number": "217-244-6835"
+    },
+    {
+        "College code and descriptor": "LL - Social Work",
+        "College contact(s)": "Yvonne Shaw",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "shaw14@illinois.edu",
+        "Phone number": "217-244-2220"
+    },
+    {
+        "College code and descriptor": "LM - Provost Academic Programs",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2730"
+    },
+    {
+        "College code and descriptor": "LN - Ctr for Innovation in Teaching & Learning",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2730"
+    },
+    {
+        "College code and descriptor": "LP - School of Information Sciences (iSchool)",
+        "College contact(s)": "Carolyn Thomas",
+        "Budget or HR Role": "HR",
+        "Contact email ": "cdthoma2@illinois.edu",
+        "Phone number": "217-244-1260"
+    },
+    {
+        "College code and descriptor": "LQ - International Programs and Studies (IPS)",
+        "College contact(s)": "Denise Esworthy",
+        "Budget or HR Role": "HR",
+        "Contact email ": "desworth@illinois.edu",
+        "Phone number": "217-300-6829"
+    },
+    {
+        "College code and descriptor": "LQ - International Programs and Studies (IPS)",
+        "College contact(s)": "Kelly Sellers",
+        "Budget or HR Role": "HR",
+        "Contact email ": "kmeeks@illinois.edu",
+        "Phone number": "217-300-6834"
+    },
+    {
+        "College code and descriptor": "LR - Library",
+        "College contact(s)": "Susan Breakenridge",
+        "Budget or HR Role": "Asst Dean, Bus & HR",
+        "Contact email ": "susanb3@illinois.edu",
+        "Phone number": "217-265-8138"
+    },
+    {
+        "College code and descriptor": "LT - Carle Illinois College of Medicine",
+        "College contact(s)": "Karen McLaughlin",
+        "Budget or HR Role": "HR",
+        "Contact email ": "karenmcl@illinois.edu",
+        "Phone number": "217-300-5700"
+    },
+    {
+        "College code and descriptor": "LT - Carle Illinois College of Medicine",
+        "College contact(s)": "Heidi Bates",
+        "Budget or HR Role": "HR",
+        "Contact email ": "hhardenb@illinois.edu",
+        "Phone number": "217-333-8305"
+    },
+    {
+        "College code and descriptor": "LT - Carle Illinois College of Medicine",
+        "College contact(s)": "Autumn Wake",
+        "Budget or HR Role": "HR",
+        "Contact email ": "awake2@illinois.edu",
+        "Phone number": "217-300-2438"
+    },
+    {
+        "College code and descriptor": "MY - Utilities Admin",
+        "College contact(s)": "Drew Schlosser",
+        "Budget or HR Role": "HR",
+        "Contact email ": "dschloss@illinois.edu",
+        "Phone number": "217-300-4189"
+    },
+    {
+        "College code and descriptor": "MY - Utilities Admin",
+        "College contact(s)": "Eric Smith",
+        "Budget or HR Role": "HR",
+        "Contact email ": "eas@uillinois.edu ",
+        "Phone number": "217-244-1394"
+    },
+    {
+        "College code and descriptor": "NA - Chancellor",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "NA2-Chancellor Illinois Human Resources",
+        "College contact(s)": "Cheryl Heck",
+        "Budget or HR Role": "HR Exec Dir Admin Ops",
+        "Contact email ": "chaheck@illinois.edu",
+        "Phone number": "217-333-3101"
+    },
+    {
+        "College code and descriptor": "NB - Provost/Vice Chanc for Academic Affairs",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "NC - Facilities and Services - Services (F&S)",
+        "College contact(s)": "Drew Schlosser",
+        "Budget or HR Role": "HR",
+        "Contact email ": "dschloss@illinois.edu",
+        "Phone number": "217-300-4189"
+    },
+    {
+        "College code and descriptor": "NC - Facilities and Services - Services (F&S)",
+        "College contact(s)": "Eric Smith",
+        "Budget or HR Role": "HR",
+        "Contact email ": "eas@uillinois.edu ",
+        "Phone number": "217-244-1394"
+    },
+    {
+        "College code and descriptor": "NE - Vice Chancellor for Research",
+        "College contact(s)": "Susan Key ",
+        "Budget or HR Role": "HR",
+        "Contact email ": "susankey@illinois.edu",
+        "Phone number": "217-244-4592"
+    },
+    {
+        "College code and descriptor": "NG - Misc Admin Units",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "NL - Vice Chancellor for Admin & Operations",
+        "College contact(s)": "Laura Bleakney",
+        "Budget or HR Role": "HR",
+        "Contact email ": "swanlundhr@illinois.edu",
+        "Phone number": "217-300-2729"
+    },
+    {
+        "College code and descriptor": "NJ - Vice Chancellor for Student Affairs",
+        "College contact(s)": "LaSonya Holley",
+        "Budget or HR Role": "HR",
+        "Contact email ": "sonyah2@illinois.edu",
+        "Phone number": "217-244-5034"
+    },
+    {
+        "College code and descriptor": "NN - Facilities and Services - Facilities (F&S)",
+        "College contact(s)": "Drew Schlosser",
+        "Budget or HR Role": "HR",
+        "Contact email ": "dschloss@illinois.edu",
+        "Phone number": "217-300-4189"
+    },
+    {
+        "College code and descriptor": "NN - Facilities and Services - Facilities (F&S)",
+        "College contact(s)": "Eric Smith",
+        "Budget or HR Role": "HR",
+        "Contact email ": "eas@uillinois.edu ",
+        "Phone number": "217-244-1394"
+    },
+    {
+        "College code and descriptor": "NP - Vice Chancellor for Research",
+        "College contact(s)": "Susan Key ",
+        "Budget or HR Role": "HR",
+        "Contact email ": "susankey@illinois.edu",
+        "Phone number": "217-244-4592"
+    },
+    {
+        "College code and descriptor": "NQ - Auxiliary Units",
+        "College contact(s)": "LaSonya Holley",
+        "Budget or HR Role": "HR",
+        "Contact email ": "sonyah2@illinois.edu",
+        "Phone number": "217-244-5034"
+    },
+    {
+        "College code and descriptor": "NS - VC Institutional Advancement",
+        "College contact(s)": "Brenda Morris",
+        "Budget or HR Role": "HR",
+        "Contact email ": "bcmorris@illinois.edu",
+        "Phone number": "217-300-2707"
+    },
+    {
+        "College code and descriptor": "NT - Chief Info Officer (Technology Services)",
+        "College contact(s)": "Terri Klinker",
+        "Budget or HR Role": "Assoc Dir. Stratg Bus",
+        "Contact email ": "tklinker@illinois.edu",
+        "Phone number": "217-244-4897"
+    },
+    {
+        "College code and descriptor": "NU - Division of Intercollegiate Athletics",
+        "College contact(s)": "Krissy Doran",
+        "Budget or HR Role": "Asst Dir, HR ",
+        "Contact email ": "kdoran@illinois.edu",
+        "Phone number": "217-333-2855"
+    },
+    {
+        "College code and descriptor": "NV - Vice Chancellor for Diversity",
+        "College contact(s)": "Adam VanDuyne",
+        "Budget or HR Role": "Budget",
+        "Contact email ": "vanduyne@illinois.edu",
+        "Phone number": "217-265-6109"
+    },
+    {
+        "College code and descriptor": "(COA 2) FW - Nursing",
+        "College contact(s)": "Herminio Morelos",
+        "Budget or HR Role": "Assoc Dean for Admin",
+        "Contact email ": "hmorelos@uic.edu",
+        "Phone number": "312-355-3854"
+    }
+]
